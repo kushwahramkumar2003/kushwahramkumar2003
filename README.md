@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400px" src="https://tenor.com/en-GB/view/coding-gif-24625099.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushwahramkumar2003&label=Profile%20views&color=0e75b6&style=flat" alt="kushwahramkumar2003" /> </p>
 
-- 🌱 I’m currently learning **BlockChain, NodeJS**
+- 🌱 I’m currently learning **BlockChain**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ramkumar.netlify.app/](https://portfolio-ramkumar.netlify.app/)
 
