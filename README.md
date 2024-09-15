@@ -1,42 +1,79 @@
-<h1 align="center">Hi 👋, I'm Ramkumar kushwah</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://tenor.com/en-GB/view/coding-gif-24625099.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushwahramkumar2003&label=Profile%20views&color=0e75b6&style=flat" alt="kushwahramkumar2003" /> </p>
+<h1 align="center">Hi 👋, I'm Ramkumar Kushwah</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **BlockChain**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-ramkumar.netlify.app/](https://portfolio-ramkumar.netlify.app/)
-
-- 💬 Ask me about **C++, Java, React**
-
-- 📫 How to reach me **kushwahramkumar2003@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sA8IhX0752R-PYwKV61ynOL6qfK7q8qM/view?usp=sharing](https://drive.google.com/file/d/1sA8IhX0752R-PYwKV61ynOL6qfK7q8qM/view?usp=sharing)
-
-- ⚡ Fun fact **I am funny 😜**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ramkumar-kushwah-418733204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramkumar-kushwah-418733204" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ramkumar9302" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ramkumar9302" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kushwahramkumar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kushwahramkumar1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ramkumar_9301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ramkumar_9301" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ramkumar_9301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramkumar_9301" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ramkumar275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ramkumar275" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ramkumar_9301/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ramkumar_9301/profile" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kushwahramkumar2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+### 🔗 Connect with me:
 
+<p align="center">
+  <a href="https://www.ramkumar-dev.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ramkumarkushwah.dev-blue?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ramkumar9301" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ramkumarkushwah-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:kushwahramkumar2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ramkumar@example.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushwahramkumar2003" alt="ramkumar" /></a> </p>
+---
 
+### 🏆 GitHub Achievements:
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kushwahramkumar2003&margin-w=15&theme=algolia" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushwahramkumar2003&show_icons=true&locale=en&layout=compact" alt="kushwahramkumar2003" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushwahramkumar2003&show_icons=true&locale=en" alt="kushwahramkumar2003" /></p>
+### 🔥 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushwahramkumar2003&" alt="kushwahramkumar2003" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushwahramkumar2003&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kushwahramkumar2003&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushwahramkumar2003&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 💼 Tech Stack:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+---
+
+### 📝 Latest Blog Posts:
+
+- [My Journey into Full-Stack Development](https://www.ramkumar-dev.me)
+- [Why I Love Working with React and Next.js](https://www.ramkumar-dev.me/articles)
+- [How I Built My Personal Portfolio](https://www.ramkumar-dev.me/portfolio)
+
+---
+
+### 📊 GitHub Activity:
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=kushwahramkumar2003&theme=github" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🎯 Fun Fact:
+
+<p align="center">When I'm not coding, you can find me exploring new tech trends or playing chess!</p>
