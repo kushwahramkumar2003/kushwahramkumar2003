@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.ramkumar-dev.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ramkumarkushwah.dev-blue?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ramkumar9301" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ramkumarkushwah-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:kushwahramkumar2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ramkumar@example.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="mailto:kushwahramkumar2003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kushwahramkumar2003@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 ---
