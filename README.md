@@ -18,4 +18,4 @@ backend systems, smart contracts, web3 infrastructure.
 
 **stack** typescript · rust · solidity · react · next.js · node.js · prisma · postgresql · mongodb · ethereum · solana
 
-[linkedin](https://www.linkedin.com/in/ramkumar9301) · [kushwahramkumar2003@gmail.com](mailto:kushwahramkumar2003@gmail.com)
+[x](https://x.com/ramkumar_9301) · [linkedin](https://www.linkedin.com/in/ramkumar9301) · [kushwahramkumar2003@gmail.com](mailto:kushwahramkumar2003@gmail.com)
